@@ -2,7 +2,7 @@
   <div>
   <h1>PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario</h1> 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=srirammandalika.SegXAL-ICPR_2024&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/arXiv-2408.04482-b31b1b?logo=arxiv&style=flat-square)]()
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srirammandalika.Precognition-CVPR_2025&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/arXiv-2408.04482-b31b1b?logo=arxiv&style=flat-square)]()
 
   </div>
 
